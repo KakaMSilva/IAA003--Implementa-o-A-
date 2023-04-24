@@ -18,5 +18,3 @@ O destino será sempre **Bucharest**.
 
 O arquivo [dists.py](dists.py) descreve estruturas de dados que representam as
 seguintes informações:
-
-![mapa](img/map_info.png)
